@@ -12,6 +12,8 @@ If you decide to fix an issue, please be sure to check the comment thread in cas
 
 If somebody claims an issue but doesn’t follow up for more than a week, it’s fine to take it over but you should still leave a comment.
 
+**Note** : For All label indicates that the issue is open for all ! :)
+
 ## Sending a Pull Request
 
 When in doubt, keep your Pull Requests small.
