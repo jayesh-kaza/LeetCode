@@ -1,4 +1,4 @@
-# Contributing to Material-UI
+# Contributing to this Repo
 
 If you're reading this, you're awesome! Thank you for helping in making this repository great. Here are a few guidelines that will help you along the way.
 
@@ -48,3 +48,11 @@ git push -u
 6. Go to [the repository](https://github.com/jayesh-kaza/LeetCode.git) and make a Pull Request.
 
 I will review your Pull Request and either merge it, request changes to it, or close it with an explanation.
+
+7. Follow the naming convention of the files. 
+
+ **Example**
+```
+ <problem_number>_<problem_name>.java
+```
+
