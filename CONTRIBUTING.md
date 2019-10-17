@@ -1,6 +1,6 @@
 # Contributing to this Repo
 
-If you're reading this, you're awesome! Thank you for helping in making this repository great. Here are a few guidelines that will help you along the way.
+If you're reading this, you're awesome! Thank you for helping in making this repository grow. Here are a few guidelines that will help you along the way.
 
 ## Your first Pull Request
 
