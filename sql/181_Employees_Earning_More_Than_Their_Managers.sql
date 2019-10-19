@@ -1,5 +1,5 @@
 SELECT
-    *
+    a.Name as Employee
 FROM
     Employee AS a,
     Employee AS b
