@@ -1,0 +1,10 @@
+Select D.Name AS Department, T.Name AS Employee, T.Salary AS Salary
+From Department D, 
+    (
+    Select Name, Salary, E.DepartmentId from Employee E JOIN (
+    Select DepartmentId, Max(Salary) AS MaxSalary From Employee
+    Group by DepartmentId) tmp
+    ON E.DepartmentId = tmp.DepartmentId
+    Where E.Salary = tmp.MaxSalary
+    ) AS T
+Where D.Id = T.DepartmentId;
